@@ -71,4 +71,4 @@ $m:-15px;
 /* 手机端<768 col-xs-*/
 @media screen and (max-width: 768px){
   @include xun(xs,13);
-}
+} 
